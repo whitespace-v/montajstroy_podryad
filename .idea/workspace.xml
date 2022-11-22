@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a7234842-ea72-4318-bf07-27daa3d232b0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/server/static/00a761de-85b2-47b3-ac20-595a2cdd04c5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/static/0689136c-7771-41ab-9048-9fc6db3c5cdd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/static/125eb2d3-c789-4379-b735-9911dc9f5c4d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/static/1780931b-cd0a-4099-8b94-399701b60657.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/static/1a7f1753-ba04-4992-ad78-9677b7d1237f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/static/1f327af7-3668-4858-bbc4-b1076228a829.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/static/1fe78f32-86c0-4e06-b9f6-65a6b3a94900.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/static/26f49a00-e578-43e6-aa7a-2ce527b12d54.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/static/39c893e4-2f0a-4238-a0f6-350c57dfd3e8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/static/4246cacc-d3b7-4480-9415-224e0d38bef7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/static/45a4a970-d88d-4268-8e2d-f94d959c1b2b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/static/4fffa0e5-8e3c-4ce1-b2a2-d5aae8802f31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/static/5237beca-dbcd-4c0f-9769-66ff7a910879.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/static/5857ec72-8139-4f55-9363-7f155237a1ed.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/static/5f23715c-28eb-4594-81dc-35a32c85ef54.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/static/5f6ef140-0124-4166-a24b-8b58b094560e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/static/615820de-a518-415d-a5c2-fa610fb040a1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/static/63377741-439b-465c-8f00-96d5a4bcf0bd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/static/6532f28e-fb98-47f4-9e9a-c7aef5a3fa27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/static/6e50b085-5130-4dc8-9e52-5c1f64f23760.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/static/6f32f9fd-a8ff-44cb-a847-846b866b338f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/static/718bd8c9-3106-4d5d-a7cd-03c5e8586d78.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/static/77d469ed-78a6-4f52-9535-23ce35626838.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/static/7b9868ea-e290-421a-82c4-0e7fca9e6ffe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/static/7bd92b93-073f-48ea-9be5-e22f1a6e22dd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/static/868df9df-c815-4133-86cd-2f016e18b027.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/static/8a0fdda6-43b3-4536-907e-9ab5ce17022f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/static/8e30b6a5-8c9d-4347-adfe-e2e17fe6e49e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/static/8f3be84d-4385-48e8-ab35-88e2e210dc89.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/static/a24a28dc-d071-4d4c-aaae-479452d66e6d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/static/aa72127f-1f4e-43fa-b9a7-633220d33624.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/static/ad74f1cb-2843-43f8-81a5-5a894b137e20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/static/b42c78cf-e205-4815-86eb-0b16abc5f554.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/static/ba9a4691-c985-4f80-8d70-39e98b4bcbd6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/static/c383c08a-bb8d-4adb-b750-5042817d58ae.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/static/d56a1d1a-f399-4649-8a8d-6ea3006fc5c2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/static/d6fead80-1ea9-4538-ad35-f078c81510e2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/static/e5bf743a-2ef4-49a5-821d-ea1e572977ed.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HZJ4mnItITV6IeuI50ULNrrMXk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/maximka/Desktop/motaj&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/home/maximka/Desktop/motaj/client/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client/src/styles/Components" />
+      <recent name="$PROJECT_DIR$/client/src/Components" />
+      <recent name="$PROJECT_DIR$/client/src" />
+      <recent name="$PROJECT_DIR$/client/src/hoc/Loader" />
+      <recent name="$PROJECT_DIR$/client/src/hoc/Layout" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7234842-ea72-4318-bf07-27daa3d232b0" name="Changes" comment="" />
+      <created>1668486483866</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668486483866</updated>
+      <workItem from="1668486485409" duration="1106000" />
+      <workItem from="1668487602103" duration="2928000" />
+      <workItem from="1668559345406" duration="25398000" />
+      <workItem from="1668670561954" duration="1294000" />
+      <workItem from="1668761017615" duration="19135000" />
+      <workItem from="1668841476642" duration="34235000" />
+      <workItem from="1669012896225" duration="40787000" />
+      <workItem from="1669130793436" duration="4920000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
