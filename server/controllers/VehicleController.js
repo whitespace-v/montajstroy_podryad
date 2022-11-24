@@ -26,16 +26,15 @@ class VehicleController {
     }
 
     async getAll(req,res) {
-        const {categoryId} = req.query
-        // let offset = page * limit - limit
+        const {categoryId, page, limit} = req.query
+        let offset = page * limit - limit
         let vehicles
-        // console.log(categoryId, page, limit)
         try {
             if (categoryId !== 0) {
-                vehicles = await Vehicle.findAndCountAll({where: {categoryId}, order: [['price', 'ASC']]})
+                vehicles = await Vehicle.findAndCountAll({where: {categoryId}, limit, offset, order: [['price', 'ASC']]})
                 return res.json(vehicles)
             } else {
-                vehicles = await Vehicle.findAndCountAll({ order: [['price', 'ASC']]})
+                vehicles = await Vehicle.findAndCountAll({ limit, offset, order: [['price', 'ASC']]})
                 return res.json(vehicles)
             }
         }
@@ -44,12 +43,8 @@ class VehicleController {
         }
     }
     async getOne(req,res){
-        console.log('ladfdsadas')
         const {id} = req.params
-        const vehicle = await Vehicle.findOne(
-            {where: {id}, include: [{model: VehicleImage, as: 'images'}]}
-        )
-
+        const vehicle = await Vehicle.findOne({where: {id}, include: [{model: VehicleImage, as: 'images'}]})
         return res.json(vehicle)
     }
     async delete(req, res) {
