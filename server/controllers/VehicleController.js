@@ -30,7 +30,7 @@ class VehicleController {
         let offset = page * limit - limit
         let vehicles
         try {
-            if (categoryId !== 0) {
+            if (categoryId !== '0') {
                 vehicles = await Vehicle.findAndCountAll({where: {categoryId}, limit, offset, order: [['price', 'ASC']]})
                 return res.json(vehicles)
             } else {

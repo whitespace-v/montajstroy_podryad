@@ -17,6 +17,10 @@ const Vehicle = sequelize.define('vehicle', {
     price:               {type: DataTypes.INTEGER,   allowNull: false, defaultValue: 0},
     image:               {type: DataTypes.STRING,    allowNull: false },
 })
+const Review = sequelize.define('review', {
+    id:                  {type: DataTypes.INTEGER, primaryKey: true, autoIncrement: true},
+    message:             {type: DataTypes.STRING,    allowNull: false },
+})
 
 //helpers
 const VehicleImage = sequelize.define('vehicle_image', {
@@ -59,5 +63,5 @@ Vehicle.belongsTo(Category)
 
 //export
 module.exports = {
-    User, Vehicle, VehicleField, VehicleImage, Category
+    User, Vehicle, VehicleField, VehicleImage, Category, Review
 }
